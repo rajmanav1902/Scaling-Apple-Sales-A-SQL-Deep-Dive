@@ -1,4 +1,6 @@
-# Scaling-Apple-Sales-A-SQL-Deep-Dive
+# Scaling Apple Sales-A SQL Deep Dive
+<img src="Apple.jpg" alt="Apple Logo">
+
 # Project overview
 
 
